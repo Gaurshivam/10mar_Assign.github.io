@@ -1,0 +1,38 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+#container{
+    height: 200px;
+    width: 500px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: coral;
+    box-shadow: 0px 2px 23px black;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(171, 216, 10);
+    width: 300px;
+    height: 30px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+p{
+    font-size: 40px;
+    padding-top: 5px;
+    padding-left: 20px;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    font-size: large;
+    margin-left: 200px;
+    text-align: center;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
